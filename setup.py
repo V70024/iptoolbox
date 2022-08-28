@@ -56,8 +56,8 @@ classifiers = [
 
 
 project_urls = {
-    'Repository': f'https://github.com/V70024/iptoolkit/tree/{version}',
-    'Documentation': f'https://github.com/V70024/iptoolkit/wiki/iptoolbox-{version}',
+    'Repository': f'https://github.com/V70024/iptoolbox/tree/{version}',
+    'Documentation': f'https://github.com/V70024/iptoolbox/wiki/iptoolbox-{version}',
     'Bug Tracker': 'https://github.com/V70024/iptoolbox/issues'
 }
 
@@ -73,7 +73,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     project_urls=project_urls,
-    url='https://github.com/V70024/iptoolkit',
+    url=f'https://github.com/V70024/{name}',
     classifiers=classifiers,
     package_data={name: ['data.json']},
     keywords=name,
