@@ -18,7 +18,7 @@
 [![BugTracker](https://img.shields.io/badge/Bug%20Tracker-red?style=for-the-badge&logo=openbugbounty&logoColor=white&labelColor=cd3700)][BugTracker]
 
 
-[Repository]:https://github.com/V70024/iptoolkit/tree/0.0.1/
+[Repository]:https://github.com/V70024/iptoolbox/tree/0.0.1/
 [pypi]:https://pypi.org/project/iptoolbox/0.0.1/
 [Documentation]:https://github.com/V70024/iptoolbox/wiki/iptoolbox-0.0.1/
 [BugTracker]:https://github.com/V70024/iptoolbox/issues/
