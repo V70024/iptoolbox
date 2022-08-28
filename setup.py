@@ -4,7 +4,7 @@ from pathlib import Path
 from setuptools import setup, find_packages
 # =========================================================================
 name = 'iptoolbox'
-version = '0.0.1'
+version = '0.0.2'
 # =========================================================================
 
 
