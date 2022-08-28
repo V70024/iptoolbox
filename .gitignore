@@ -1,5 +1,6 @@
 .pypirc
 CHANGELOG.md
+test.md
 dist
 iptoolbox.egg-info
 __pycache__
