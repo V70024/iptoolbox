@@ -1,2 +1,2 @@
 global-include *.txt *.text *.py data.json
-global-exclude .pypirc .gitignore CHANGELOG.md test.md
+global-exclude .pypirc .gitignore CHANGELOG.md test.md test.py

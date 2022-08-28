@@ -4,3 +4,4 @@ test.md
 dist
 iptoolbox.egg-info
 __pycache__
+test.py
