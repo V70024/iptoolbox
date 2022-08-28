@@ -1,0 +1,2 @@
+global-include *.txt *.text *.py data.json
+global-exclude .pypirc .gitignore .CHANGELOG.md
