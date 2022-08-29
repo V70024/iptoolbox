@@ -1,4 +1,3 @@
-
 class ReadDataFileError(Exception):
     ...
 

@@ -1,5 +1,3 @@
-# import typing
-
 from pathlib import Path
 
 from json import (
@@ -56,7 +54,6 @@ class RandomIp4:
         """
 
         data_file_location = Path(__file__).resolve().parent / "data.json"
-
 
         try:
             with open(data_file_location, "r", encoding="utf8") as file:
@@ -120,7 +117,7 @@ class RandomIp4:
         """generate ip
         ----
         #### Use `generate_ip` to generate an IP. It will return the created IP to you and add it to the `ip_list` list
-        
+
         - Returns:
             - str: ip v4
         """
@@ -143,8 +140,8 @@ class RandomIp4:
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.ip_list.clear()
-        del(self.country_data)
-        del(self.country_ranges)
-        del(self.data)
-        del(self.country_name)
-        del(self.country_code)
+        del self.country_data
+        del self.country_ranges
+        del self.data
+        del self.country_name
+        del self.country_code
