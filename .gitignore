@@ -1,9 +1,8 @@
-.pypirc
-CHANGELOG.md
-test.md
+__pycache__
 dist
 iptoolbox.egg-info
-__pycache__
+.pypirc
+test.md
 test.py
 v-env-test
 build
