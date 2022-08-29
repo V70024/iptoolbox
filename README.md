@@ -1,6 +1,6 @@
 <div align="right">
 
-![Version](https://img.shields.io/badge/Version-0.0.2-ff6fff?style=for-the-badge&logoColor=black&labelColor=3f00ff)
+![Version](https://img.shields.io/badge/Version-0.0.3-ff6fff?style=for-the-badge&logoColor=black&labelColor=3f00ff)
 
 </div>
 
@@ -18,9 +18,9 @@
 [![BugTracker](https://img.shields.io/badge/Bug%20Tracker-red?style=for-the-badge&logo=openbugbounty&logoColor=white&labelColor=cd3700)][BugTracker]
 
 
-[Repository]:https://github.com/V70024/iptoolbox/tree/0.0.2/
-[pypi]:https://pypi.org/project/iptoolbox/0.0.2/
-[Documentation]:https://github.com/V70024/iptoolbox/wiki/iptoolbox-0.0.2/
+[Repository]:https://github.com/V70024/iptoolbox/tree/0.0.3/
+[pypi]:https://pypi.org/project/iptoolbox/0.0.3/
+[Documentation]:https://github.com/V70024/iptoolbox/wiki/iptoolbox-0.0.3/
 [BugTracker]:https://github.com/V70024/iptoolbox/issues/
 
 <br><br><br><br><br>
