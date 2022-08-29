@@ -1,4 +1,5 @@
 from .tools import RandomIp4
+from . import validation
 
 __name__ = "iptoolbox"
 __version__ = "0.0.2"
