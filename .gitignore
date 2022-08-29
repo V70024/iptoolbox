@@ -5,3 +5,6 @@ dist
 iptoolbox.egg-info
 __pycache__
 test.py
+v-env-test
+build
+iptoolbox.code-workspace
