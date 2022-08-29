@@ -1,2 +1,2 @@
 global-include *.txt *.text *.py data.json
-global-exclude .pypirc .gitignore CHANGELOG.md test.md test.py
+global-exclude .pypirc .gitignore CHANGELOG.md test.md test.py iptoolbox.code-workspace build v-env-test
